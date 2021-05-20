@@ -1,0 +1,24 @@
+{
+  "name": "sparrow-js",
+  "version": "1.0.0",
+  "description": "A small library of functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangrongding/sparrowJs.git"
+  },
+  "keywords": [
+    "javaScript",
+    "sparrow",
+    "functions"
+  ],
+  "author": "rongding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangrongding/sparrowJs/issues"
+  },
+  "homepage": "https://github.com/wangrongding/sparrowJs#readme"
+}
